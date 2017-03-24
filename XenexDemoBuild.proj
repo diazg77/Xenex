@@ -5,7 +5,7 @@
     DefaultTargets="Build">
 
 	<PropertyGroup>
-		<OutputDir>c:\XenexBuild</OutputDir>
+		<OutputDir>c:\XenexBuild\source</OutputDir>
 	</PropertyGroup>
 	
     <ItemGroup>

@@ -5,3 +5,12 @@ c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemoPrint\obj\Release\XenexDemo
 c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemoPrint\obj\Release\XenexDemoPrint.pdb
 c:\XenexBuild\XenexDemoPrint.dll
 c:\XenexBuild\XenexDemoPrint.pdb
+c:\Users\1111229\Documents\GitHub\Xenex\XenexDemoPrint\obj\Release\XenexDemoPrint.csprojResolveAssemblyReference.cache
+c:\Users\1111229\Documents\GitHub\Xenex\XenexDemoPrint\obj\Release\XenexDemoPrint.dll
+c:\Users\1111229\Documents\GitHub\Xenex\XenexDemoPrint\obj\Release\XenexDemoPrint.pdb
+c:\Users\1111229\Documents\GitHub\Xenex\XenexDemoPrint\XenexBuild\source\XenexDemoPrint.dll
+c:\Users\1111229\Documents\GitHub\Xenex\XenexDemoPrint\XenexBuild\source\XenexDemoPrint.pdb
+c:\XenexBuild\source\XenexDemoPrint.dll
+c:\XenexBuild\source\XenexDemoPrint.pdb
+c:\Users\1111229\Documents\GitHub\Xenex\XenexDemoPrint\~\XenexBuild\source\XenexDemoPrint.dll
+c:\Users\1111229\Documents\GitHub\Xenex\XenexDemoPrint\~\XenexBuild\source\XenexDemoPrint.pdb
