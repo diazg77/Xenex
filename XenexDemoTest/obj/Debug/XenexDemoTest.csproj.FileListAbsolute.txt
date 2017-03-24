@@ -16,3 +16,12 @@ c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemoTest\bin\Debug\nunit.framew
 c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemoTest\obj\Debug\XenexDemoTest.csprojResolveAssemblyReference.cache
 c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemoTest\obj\Debug\XenexDemoTest.dll
 c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemoTest\obj\Debug\XenexDemoTest.pdb
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\bin\Debug\XenexDemoTest.dll
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\bin\Debug\XenexDemoTest.pdb
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\bin\Debug\nunit.framework.dll
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\bin\Debug\XenexDemoPrint.dll
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\bin\Debug\XenexDemoPrint.pdb
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\bin\Debug\nunit.framework.xml
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\obj\Debug\XenexDemoTest.csprojResolveAssemblyReference.cache
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\obj\Debug\XenexDemoTest.dll
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemoTest\obj\Debug\XenexDemoTest.pdb

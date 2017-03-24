@@ -14,3 +14,6 @@ c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemo\bin\Debug\XenexDemo.pdb
 c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemo\bin\Debug\XenexDemoPrint.dll
 c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemo\bin\Debug\XenexDemoPrint.pdb
 c:\Users\1111229\Documents\GitHub\XenexDemo\XenexDemo\obj\Debug\XenexDemo.csprojResolveAssemblyReference.cache
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemo\bin\Debug\XenexDemo.exe.config
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemo\obj\Debug\XenexDemo.exe
+C:\Users\1111229\Documents\GitHub\Xenex\XenexDemo\obj\Debug\XenexDemo.pdb
